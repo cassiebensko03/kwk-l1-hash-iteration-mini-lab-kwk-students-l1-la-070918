@@ -5,7 +5,7 @@ olympics_hash= {}
 olympics_hash["Sydney "] = "2000"
 olympics_hash["Athens"]= "2004"
 olympics_hash["Beijing"]= "2008"
-olympics_hash["London"]= ""
+olympics_hash["London"]= "2012"
 end
 puts olympics_hash
 
