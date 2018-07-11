@@ -36,6 +36,7 @@ end
 
 puts olympics_hash.each do |place|
   puts city.upcase
+end
 
 
 # def iterate_through_keys
