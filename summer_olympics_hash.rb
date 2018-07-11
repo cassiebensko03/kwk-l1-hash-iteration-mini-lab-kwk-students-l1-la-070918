@@ -1,6 +1,6 @@
 
-place
-
+place= ["sydney", "athens", "Beijing", "London", "Atlanta"]
+year= [ "2000", "2004", "2008", "2012", "1996"]
 
 
 olympics_hash= {}
@@ -18,7 +18,7 @@ puts olympics_hash
 
 
 olympics_hash.each do |place, year|
-  puts "place: #{city}"
+  puts "place: #{place}"
   puts "year: #{year}"
 end
 
