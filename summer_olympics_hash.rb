@@ -1,5 +1,5 @@
 
-def create_olympics_hash
+def olympics_hash
   
 olympics_hash= {}
 olympics_hash["Sydney "] = "2000"
