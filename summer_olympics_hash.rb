@@ -14,12 +14,6 @@ puts olympics_hash
 
 
 
-# olympics_hash.each do |city,year|
-#   puts "city: #{city_name}"
-#   puts "year: #{year}"
-# end
-
-
 
 
 # def add_a_key_value_pair
