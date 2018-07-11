@@ -11,14 +11,11 @@ year= [ "2000", "2004", "2008", "2012", "1996"]
 # puts olympics_hash
 
 olympics_hash = {}
-
 count = 0
-
 olympics_hash.each do |place|
   olympics_hash[place] = year[count]
   count += 1
-
-
+end
 puts olympics_hash
 
 # new_olympic_city = "Atlanta"
