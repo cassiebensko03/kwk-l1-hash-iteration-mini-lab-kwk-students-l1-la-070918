@@ -38,7 +38,7 @@ def upcase_method
 puts olympics_hash.each do |place|
   puts "#{place.upcase}"
 end
-upcase_method
+puts upcase_method
  
 
 # def iterate_through_keys
