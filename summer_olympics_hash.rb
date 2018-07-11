@@ -1,4 +1,8 @@
 
+place
+
+
+
 olympics_hash= {}
 olympics_hash["Sydney"] = "2000"
 olympics_hash["Athens"]= "2004"
