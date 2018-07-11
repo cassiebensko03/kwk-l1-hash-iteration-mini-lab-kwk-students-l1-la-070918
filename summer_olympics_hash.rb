@@ -35,7 +35,7 @@ olympics_hash.each do |place,year|
 end
 
 puts olympics_hash.each do |place|
-  puts "#{place}.upcase"
+  puts "place.upcase"
 end
  
 
