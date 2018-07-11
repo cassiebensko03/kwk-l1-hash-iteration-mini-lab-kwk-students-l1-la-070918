@@ -2,6 +2,9 @@
 def create_olympics_hash
   
 olympics_hash= {}
+olympics_hash["jessica"] = "john legend"
+olympics_hash["cass"]= "young patrick dempsey"
+
 
   # Implement this method so that it returns a hash with the data provided on README.md
 end
