@@ -34,7 +34,7 @@ olympics_hash.each do |place,year|
   puts "The #{year} summer olympics took place in #{place}."
 end
 
-puts olympics_hash.upcase
+puts olympics_hash.keys.upcase 
 
 
 # def iterate_through_keys
