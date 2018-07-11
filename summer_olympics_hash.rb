@@ -13,6 +13,13 @@ puts olympics_hash
 
 
 
+olympics_hash.each do |place, year|
+  puts "place: #{city}"
+  puts "year: #{year}"
+end
+
+
+
 
 
 
