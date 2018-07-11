@@ -21,10 +21,10 @@ end
 
 puts olympics_hash
 
-new_olympic_city = "Atlanta"
-year = "1996"
-olympics_hash[new_olympic_city]= year
-puts olympics_hash
+# new_olympic_city = "Atlanta"
+# year = "1996"
+# olympics_hash[new_olympic_city]= year
+# puts olympics_hash
 
 
 olympics_hash.each do |place, year|
