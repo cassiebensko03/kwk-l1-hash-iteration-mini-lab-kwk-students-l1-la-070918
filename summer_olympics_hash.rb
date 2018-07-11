@@ -1,18 +1,15 @@
 
-# def olympics_hash
-  
 olympics_hash= {}
 olympics_hash["Sydney"] = "2000"
 olympics_hash["Athens"]= "2004"
 olympics_hash["Beijing"]= "2008"
 olympics_hash["London"]= "2012"
-# end
 puts olympics_hash
 
-# olympics_hash.each do |city,year|
-#   puts "city: #{city_name}"
-#   puts "year: #{year}"
-# end
+olympics_hash.each do |city,year|
+  puts "city: #{city_name}"
+  puts "year: #{year}"
+end
 
 
 
