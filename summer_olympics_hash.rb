@@ -2,7 +2,7 @@
 def create_olympics_hash
   
 olympics_hash= {}
-olympics_hash["jessica"] = "john legend"
+olympics_hash["Sydney "] = "2000"
 olympics_hash["cass"]= "young patrick dempsey"
 
 
