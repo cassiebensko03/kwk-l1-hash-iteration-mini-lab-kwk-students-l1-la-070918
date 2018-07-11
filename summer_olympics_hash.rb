@@ -4,6 +4,7 @@ def create_olympics_hash
 olympics_hash= {}
 olympics_hash["Sydney "] = "2000"
 olympics_hash["Athens"]= "2004"
+end
 puts olympics_hash
 
 #   # Implement this method so that it returns a hash with the data provided on README.md
