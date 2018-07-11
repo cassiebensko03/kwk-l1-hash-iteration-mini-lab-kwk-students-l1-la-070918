@@ -27,10 +27,11 @@ puts olympics_hash
 # puts olympics_hash
 
 
-olympics_hash.each do |place, year|
+olympics_hash.each do |place,year|
   puts "place: #{place}"
   puts "year: #{year}"
 end
+ puts olympics_hash
 
 
 
