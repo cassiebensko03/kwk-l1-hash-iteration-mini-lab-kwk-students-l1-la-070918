@@ -4,6 +4,7 @@ def olympics_hash
 olympics_hash= {}
 olympics_hash["Sydney "] = "2000"
 olympics_hash["Athens"]= "2004"
+olympics_hash[]
 end
 puts olympics_hash
 
