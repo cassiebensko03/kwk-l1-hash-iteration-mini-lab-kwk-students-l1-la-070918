@@ -12,7 +12,7 @@ year= [ "2000", "2004", "2008", "2012", "1996"]
 
 olympics_hash = { }
 count = 0
-olympics_hash.each do |place|
+place.each do |place|
   olympics_hash[place] = year[count]
   count += 1
 end
