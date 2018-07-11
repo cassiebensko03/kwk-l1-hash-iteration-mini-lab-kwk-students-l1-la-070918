@@ -16,7 +16,6 @@ olympics_hash[new_olympic_city]= year
 puts olympics_hash
 
 
-
 olympics_hash.each do |place, year|
   puts "place: #{place}"
   puts "year: #{year}"
