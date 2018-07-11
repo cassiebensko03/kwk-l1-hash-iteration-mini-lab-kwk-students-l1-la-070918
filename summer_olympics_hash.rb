@@ -6,10 +6,17 @@ olympics_hash["Beijing"]= "2008"
 olympics_hash["London"]= "2012"
 puts olympics_hash
 
-olympics_hash.each do |city,year|
-  puts "city: #{city_name}"
-  puts "year: #{year}"
-end
+new_olympic_ciye = ""
+crush = colten hayes
+klossangeles_crushes[new_klossangeles]= crush
+
+
+
+
+# olympics_hash.each do |city,year|
+#   puts "city: #{city_name}"
+#   puts "year: #{year}"
+# end
 
 
 
